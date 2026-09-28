@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Barangay 76-A Buscana logo</title>
+  <desc id="desc">Circular blue, gold, red and white barangay seal.</desc>
+  <defs>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f9df55"/>
+      <stop offset="1" stop-color="#c9952a"/>
+    </linearGradient>
+  </defs>
+  <circle cx="256" cy="256" r="249" fill="#142d61"/>
+  <circle cx="256" cy="256" r="228" fill="#fff" stroke="#d7a52d" stroke-width="8"/>
+  <path d="M256 28a228 228 0 0 1 0 456a228 228 0 0 1 0-456Z" fill="none" stroke="#142d61" stroke-width="30" stroke-dasharray="2 16"/>
+  <text x="256" y="75" text-anchor="middle" fill="#142d61" font-family="Georgia,serif" font-size="29" font-weight="700" letter-spacing="2">BARANGAY 76-A</text>
+  <text x="256" y="454" text-anchor="middle" fill="#142d61" font-family="Georgia,serif" font-size="22" font-weight="700" letter-spacing="2">BUSCANA</text>
+  <circle cx="256" cy="258" r="145" fill="url(#gold)" stroke="#fff" stroke-width="7"/>
+  <path d="M256 132l12 35 37 1-29 22 10 36-30-21-30 21 10-36-29-22 37-1z" fill="#fff" stroke="#142d61" stroke-width="4"/>
+  <path d="M256 196v124M194 258h124M214 216l84 84M298 216l-84 84" stroke="#fff" stroke-width="10" stroke-linecap="round"/>
+  <circle cx="256" cy="258" r="31" fill="#fff" stroke="#142d61" stroke-width="5"/>
+  <path d="M171 345h66v-45h38v45h66v20H171z" fill="#142d61" opacity=".9"/>
+  <path d="M180 345l25-35 22 21 26-39 30 53z" fill="#2456a6"/>
+  <path d="M332 345l-24-44-22 24-23-28-28 48z" fill="#a32d2d" opacity=".95"/>
+  <circle cx="256" cy="258" r="145" fill="none" stroke="#fff" stroke-width="4" opacity=".9"/>
+</svg>
